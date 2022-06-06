@@ -1,2 +1,2 @@
-support oauth code
+support oauth-code
 
